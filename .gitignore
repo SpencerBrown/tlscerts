@@ -1,2 +1,5 @@
 .idea
 .terraform
+tls-certs
+.terraform.lock.hcl
+terraform.tfstate*
